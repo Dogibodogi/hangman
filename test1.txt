@@ -1,0 +1,17 @@
+animal:elephant
+animal:tiger
+animal:giraffe
+animal:zebra
+animal:kangaroo
+
+fruit:apple
+fruit:banana
+fruit:cherry
+fruit:grape
+fruit:watermelon
+
+country:canada
+country:brazil
+country:japan
+country:egypt
+country:germany
